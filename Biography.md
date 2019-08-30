@@ -1,6 +1,6 @@
 # Professional Biography
 
-Hello! I'm Collin, a fifth-year Dean’s List computer science student at the University of Cincinnati currently working/co-oping for a company called International Technegroup, Inc. in Milford, Ohio. Proficient in several programming languages, I gained hands-on experience as a software development co-op, and have enhanced many skills applicable to my desired position.
+My name is Collin Fox, a fifth-year Dean’s List computer science student at the University of Cincinnati, currently working part-time for my co-op company called International Technegroup, Inc. in Milford, Ohio. Proficient in several programming languages, I gained hands-on experience as a software development co-op, and have enhanced many skills applicable to my desired position.
 
 I am most comfortable programming in Python and Java. I am also fluent in SQL (MySQL, Microsoft SQL Server, and Oracle). I have created a website for my music production side-hobby in HTML, CSS, and JavaScript. The past four years I have worked with these languages extensively and have one year of work experience with them. I have no problems getting my thoughts out on paper, e-Mail, or Microsoft Office, which I have used nearly my entire life. 
 
