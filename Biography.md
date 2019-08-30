@@ -26,14 +26,14 @@ This co-op term greatly enhanced my time-prioritization skills as I would freque
 # Requested Project Type
 I have several options in mind:
 
-**Option 1**
--Python program that uses macros in FL studio to create beats for you based on many questions the program will ask you. Will have you make a melody in an online melody making utility, whose notes will be exported for use in FL Studio. It will randomize the locations of notes for a certain section, based on if you chose 3/4 or 4/4 time, what section you'd like to randomize, and how many notes you'd like to insert. Will have a GUI to visualize the beat patterns. You can pick what sections to randomize and what sections to keep, until a whole beat is built. Will open FL Studio silently like the CAD systems that are opened at my co-op.
+**Option 1** 
+-Python compiler that uses the value of %PYTHONHOME% to compile python code in the correct version. It will prompt you for the source .py file and destination .pyc location, which it will store in .txt files for the next use, to speed things up. This will be a combination of batch code and python code. I have yet to find a good python compiler that can preserve the path of where you'd like to compile to (if you try compiling and the output folder isn't the same as where you plan on running python from, it will give you an error in the compiled python scripts as paths are 'embedded' in the .pyc files) as well as be universal for all python versions. 
 
 **Option 2**
--Java & Python call tracker to make it easier to know whic company files are being called, when, and where. At my last co-op it was quite difficult to keep track of all the Java calls, Python calls, and Java calls to python. This tool would be very helpful not only for myself but for our entire development team at ITI.
-
-**Option 3**
 -File searching utility that uses a combination of batch commands and Python calls to search for the desired string (whether it be inside a file, or in the filename) in the least amount of time, with higher accuracy than the Windows search box. While on co-op I noticed the search box would often give "no results found" even though the file was infact inside the folder I was searching in. Additionally, it was very slow. For "Find in files" searches I had to use a separate program (Notepad++), so this tool will greatly speed things up, increase search accuracy, and be easier to use since it will all be included in one utility. 
 
-**Option 4** 
--Python compiler that uses the value of %PYTHONHOME% to compile python code in the correct version. It will prompt you for the source .py file and destination .pyc location, which it will store in .txt files for the next use, to speed things up. This will be a combination of batch code and python code. I have yet to find a good python compiler that can preserve the path of where you'd like to compile to (if you try compiling and the output folder isn't the same as where you plan on running python from, it will give you an error in the compiled python scripts as paths are 'embedded' in the .pyc files) as well as be universal for all python versions. 
+**Option 3**
+-Python program that uses macros in FL studio to create beats for you based on many questions the program will ask you. Will have you make a melody in an online melody making utility, whose notes will be exported for use in FL Studio. It will randomize the locations of notes for a certain section, based on if you chose 3/4 or 4/4 time, what section you'd like to randomize, and how many notes you'd like to insert. Will have a GUI to visualize the beat patterns. You can pick what sections to randomize and what sections to keep, until a whole beat is built. Will open FL Studio silently like the CAD systems that are opened at my co-op.
+
+**Option 4**
+-Java & Python call tracker to make it easier to know whic company files are being called, when, and where. At my last co-op it was quite difficult to keep track of all the Java calls, Python calls, and Java calls to python. This tool would be very helpful not only for myself but for our entire development team at ITI.
