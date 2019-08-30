@@ -6,12 +6,12 @@ I am most comfortable programming in Python and Java. I am also fluent in SQL (M
 
 My most significant strengths are my problem-solving skills, perseverance, communication, and documentation. I work well on a team as well as individually. I have been described as easy-going, adaptive, and an excellent listener. By doing whatever it takes to grasp unfamiliar concepts, I can push through even the toughest of tasks. I am a member of the University of Cincinnati’s Bearcat Coders programming club and am a member of the National Society of Collegiate Scholars (NSCS). 
 
-## Contact Information
+# Contact Information
 * Gmail: collinjfox17@gmail.com
 * UC email: foxcj@mail.uc.edu
 * Phone: 6145898137
 
-### Co-op Experience
+# Co-op Experience
 
 **Spring 2018 - International Technegroup, Inc. (Software Developer)**
 During my first co-op term at International Technegroup, I was assigned tasks of lower priority while I was familiarizing myself with the software development process. I greatly improved my skills with Eclipse as I used this application to fix the reports page of DEXcenter, which provide information about previous "sessions" (a DEXcenter part file conversion or comparison). I also strengthened my skills with SQL (MySQL, Oracle, Microsoft SQL Server) as our DEXcenter reports fetch data from the previous sessions by querying DEXcenter's database. 
@@ -23,7 +23,7 @@ My second co-op term I was essentially seen as a full-time non-intern employee a
 
 This co-op term greatly enhanced my time-prioritization skills as I would frequently be assigned new higher-priority tasks. It was crucial to put my current projects on hold until the more important issues were resolved, such as the problem our Honeywell customers were experiencing with our reports page not displaying. Particularly with these customer-specific issues, my time-prioritization was additionally tested by needing to work as time-efficient as possible, dynamically considering each way to approach a problem during each stage of the problem-solving process, and choosing the direction that provides the desired results with the smallest customer wait-time as possible.
 
-#### Requested Project Type
+# Requested Project Type
 I have several options in mind:
 
 **Option 1**
