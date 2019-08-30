@@ -1,1 +1,20 @@
+# Professional Biography
 
+Hello! I'm Collin, a fourth-year Dean’s List computer science student at the University of Cincinnati seeking a full-time development position. Proficient in several programming languages, I gained hands-on experience as a software development co-op, and have enhanced many skills applicable to my desired position.
+
+I am most comfortable programming in Python and Java. I am also fluent in SQL (MySQL, Microsoft SQL Server, and Oracle). I have created a website for my music production side-hobby in HTML, CSS, and JavaScript. The past four years I have worked with these languages extensively and have one year of work experience with them. I have no problems getting my thoughts out on paper, e-Mail, or Microsoft Office, which I have used nearly my entire life. 
+
+My most significant strengths are my problem-solving skills, perseverance, communication, and documentation. I work well on a team as well as individually. I have been described as easy-going, adaptive, and an excellent listener. By doing whatever it takes to grasp unfamiliar concepts, I can push through even the toughest of tasks. I am a member of the University of Cincinnati’s Bearcat Coders programming club and am a member of the National Society of Collegiate Scholars (NSCS). 
+
+
+# Co-op Experience
+
+Spring 2018 - International Technegroup, Inc. (Software Developer)
+During my first co-op term at International Technegroup, I was assigned tasks of lower priority while I was familiarizing myself with the software development process. I greatly improved my skills with Eclipse as I used this application to fix the reports page of DEXcenter, which provide information about previous "sessions" (a DEXcenter part file conversion or comparison). I also strengthened my skills with SQL (MySQL, Oracle, Microsoft SQL Server) as our DEXcenter reports fetch data from the previous sessions by querying DEXcenter's database. 
+
+My ability to pay attention to detail improved greatly during this term as I learned how changes made to files must be thoroughly tested to prevent errors caused by dependencies in other files. I improved this skill with everything I worked on, particularly when committing changed files and writing Java code. Pushing changes to files is a delicate process as a single misplaced character can result in the software failing to work as intended, if at all. Although unintentional changes can be backed out, I learned to avoid doing this as it clutters the repository with unnecessary pushes. Java is a very syntax-focused programming language; a mistake as simple as forgetting to add a semicolon to the end of a line can render DEXcenter unusable. 
+
+Fall 2019 - International Technegroup, Inc. (Software Developer)
+My second co-op term I was essentially seen as a full-time non-intern employee and was assigned tasks of similar difficulty to the rest of the DEXcenter team. Near the beginning of the term I fixed bugs residing in extensively hierarchical Java code and tested multiple DEXcenter functions, providing documentation to my team with the results of my testing. I additionally wrote python scripts, Windows .bat files, and Linux .sh files from scratch to streamline the configuration of our software. I also fixed issues with our database tables (e.g. resolved all problems that arose when creating and populating DEXcenter's database) by modifying SQL code. ​​​
+
+This co-op term greatly enhanced my time-prioritization skills as I would frequently be assigned new higher-priority tasks. It was crucial to put my current projects on hold until the more important issues were resolved, such as the problem our Honeywell customers were experiencing with our reports page not displaying. Particularly with these customer-specific issues, my time-prioritization was additionally tested by needing to work as time-efficient as possible, dynamically considering each way to approach a problem during each stage of the problem-solving process, and choosing the direction that provides the desired results with the smallest customer wait-time as possible.
