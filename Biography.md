@@ -7,9 +7,9 @@ I am most comfortable programming in Python and Java. I am also fluent in SQL (M
 My most significant strengths are my problem-solving skills, perseverance, communication, and documentation. I work well on a team as well as individually. I have been described as easy-going, adaptive, and an excellent listener. By doing whatever it takes to grasp unfamiliar concepts, I can push through even the toughest of tasks. I am a member of the University of Cincinnati’s Bearcat Coders programming club and am a member of the National Society of Collegiate Scholars (NSCS). 
 
 ## Contact Information
-Gmail: collinjfox17@gmail.com
-UC email: foxcj@mail.uc.edu
-Phone: 6145898137
+* Gmail: collinjfox17@gmail.com
+* UC email: foxcj@mail.uc.edu
+* Phone: 6145898137
 
 ### Co-op Experience
 
